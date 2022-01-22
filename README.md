@@ -1,1 +1,1 @@
-# E-commerces Admin
+# E-commerce Admin
